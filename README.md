@@ -17,13 +17,17 @@ coverage](https://codecov.io/gh/joshwlambert/packageReview/branch/main/graph/bad
 [![lifecycle-concept](https://raw.githubusercontent.com/reconverse/reconverse.github.io/master/images/badge-concept.svg)](https://www.reconverse.org/lifecycle.html#concept)
 <!-- badges: end -->
 
-packageReview provides functions to ….
+packageReview is a minimal R package to demonstrate code review on
+GitHub.
 
 <!-- This sentence is optional and can be removed -->
 
-packageReview is developed at the [CENTER\|similar](url) at the
-[UNIVERSITY\|similar](url) as part of the [Epiverse-TRACE
-program](https://data.org/initiatives/epiverse/).
+packageReview is developed at the [Centre for the Mathematical Modelling
+of Infectious
+Diseases](https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases)
+at the [London School of Hygiene and Tropical
+Medicine](https://www.lshtm.ac.uk/) as part of
+[Epiverse-TRACE](https://data.org/initiatives/epiverse/).
 
 ## Installation
 
