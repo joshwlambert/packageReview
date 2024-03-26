@@ -27,10 +27,10 @@ knitr::opts_chunk$set(
 [![lifecycle-concept](https://raw.githubusercontent.com/reconverse/reconverse.github.io/master/images/badge-concept.svg)](https://www.reconverse.org/lifecycle.html#concept) 
 <!-- badges: end -->
 
-{{ packagename }} provides functions to ....
+{{ packagename }} is a minimal R package to demonstrate code review on GitHub.
 
 <!-- This sentence is optional and can be removed -->
-{{ packagename }} is developed at the [CENTER|similar](url) at the [UNIVERSITY|similar](url) as part of the [Epiverse-TRACE program](https://data.org/initiatives/epiverse/).
+{{ packagename }} is developed at the [Centre for the Mathematical Modelling of Infectious Diseases](https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases) at the [London School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk/) as part of [Epiverse-TRACE](https://data.org/initiatives/epiverse/).
 
 ## Installation
 
