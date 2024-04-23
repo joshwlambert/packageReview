@@ -24,7 +24,6 @@ knitr::opts_chunk$set(
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit/)
 [![R-CMD-check](https://github.com/{{ gh_repo }}/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/{{ gh_repo }}/actions/workflows/R-CMD-check.yaml)
 [![Codecov test coverage](https://codecov.io/gh/{{ gh_repo }}/branch/main/graph/badge.svg)](https://app.codecov.io/gh/{{ gh_repo }}?branch=main)
-[![lifecycle-concept](https://raw.githubusercontent.com/reconverse/reconverse.github.io/master/images/badge-concept.svg)](https://www.reconverse.org/lifecycle.html#concept) 
 <!-- badges: end -->
 
 {{ packagename }} is a minimal R package to demonstrate code review on GitHub.
@@ -42,19 +41,14 @@ You can install the development version of {{ packagename }} from
 pak::pak("{{ gh_repo }}")
 ```
 
-## Example
+## Package purpose
 
-These examples illustrate some of the current functionalities
+This repository has been setup to illustrate how code reviews work on GitHub.
+It is used to demonstrate:
 
-
-## Development
-
-### Lifecycle
-
-This package is currently a *concept*, as defined by the [RECON software
-lifecycle](https://www.reconverse.org/lifecycle.html). This means that essential
-features and mechanisms are still being developed, and the package is not ready
-for use outside of the development team.
+* Feature code reviews
+* Full package reviews
+* Partial (pre-release) reviews
 
 ### Contributions
 
