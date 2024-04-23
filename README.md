@@ -14,7 +14,6 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.or
 [![R-CMD-check](https://github.com/joshwlambert/packageReview/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/joshwlambert/packageReview/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
 coverage](https://codecov.io/gh/joshwlambert/packageReview/branch/main/graph/badge.svg)](https://app.codecov.io/gh/joshwlambert/packageReview?branch=main)
-[![lifecycle-concept](https://raw.githubusercontent.com/reconverse/reconverse.github.io/master/images/badge-concept.svg)](https://www.reconverse.org/lifecycle.html#concept)
 <!-- badges: end -->
 
 packageReview is a minimal R package to demonstrate code review on
@@ -39,18 +38,14 @@ You can install the development version of packageReview from
 pak::pak("joshwlambert/packageReview")
 ```
 
-## Example
+## Package purpose
 
-These examples illustrate some of the current functionalities
+This repository has been setup to illustrate how code reviews work on
+GitHub. It is used to demonstrate:
 
-## Development
-
-### Lifecycle
-
-This package is currently a *concept*, as defined by the [RECON software
-lifecycle](https://www.reconverse.org/lifecycle.html). This means that
-essential features and mechanisms are still being developed, and the
-package is not ready for use outside of the development team.
+- Feature code reviews
+- Full package reviews
+- Partial (pre-release) reviews
 
 ### Contributions
 
