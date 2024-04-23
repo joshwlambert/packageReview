@@ -1,6 +1,6 @@
 #' Calculate sum of squares differences for a vector
 #'
-#' @param x A vector.
+#' @param x A numeric vector.
 #'
 #' @return. A number.
 #' @export
